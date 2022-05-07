@@ -1,14 +1,5 @@
-/account.json
 /com/
 /commons/
-/env-dev.properties
-/env-staging.properties
-/env-testing.properties
-/factoryBrowser/
-/log4j.xml
-/pageFactory/
-/pageFragment/
 /pageObjects/
 /pageUIs/
-/reportConfig/
-/ultilities/
+/pageUI/
